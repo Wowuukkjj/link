@@ -1,7 +1,7 @@
 baseURL               = "https://shenweiyan.github.io/WebStack-Demo"
 languageCode          = "zh-CN"
 title                 = "hhh 网址导航"
-theme                 = "hhh"
+theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
