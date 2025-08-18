@@ -1,7 +1,7 @@
 baseURL               = "https://shenweiyan.github.io/WebStack-Demo"
 languageCode          = "zh-CN"
-title                 = "WebStack-Hugo 网址导航"
-theme                 = "WebStack-Hugo"
+title                 = "hhh 网址导航"
+theme                 = "hhh"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
@@ -10,7 +10,7 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params]
     author        = "shenweiyan"
-    description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
+    description   = "hhh 网址导航 | Hugo 主题 BY Bio IT 爱好者"
     upload        = ""      # 左侧导航栏的"网站提交"
     about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Demo"  
